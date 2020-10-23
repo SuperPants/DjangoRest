@@ -1,11 +1,11 @@
-#Django Rest
+# Django Rest
 
 * Django
 * Sqlite
 * VueJS
 
-###How to run
-####Frontend
+### How to run
+#### Frontend
 
 ```
 cd frontend
@@ -13,7 +13,7 @@ npm install
 npm run serve
 ```
 
-####Backend
+#### Backend
 
 ```
 cd backend
